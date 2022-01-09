@@ -5,3 +5,5 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem "ruby2d"
+gem "minitest"
+gem "byebug"
